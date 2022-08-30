@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/Subway">
+    <file>resource/background2.jpg</file>
+    <file>resource/map.png</file>
+    <file>resource/lines.png</file>
+    <file>resource/add.png</file>
+    <file>resource/del.png</file>
+    <file>resource/graph.png</file>
+    <file>resource/icon.bmp</file>
+    <file>resource/path.png</file>
+    <file>resource/station.png</file>
+  </qresource>
+</RCC>
